@@ -31,9 +31,7 @@ const TempMail = require('./TempMail');
 
         // Display the message details
         console.log("Message received!");
-        console.log("Subject:", message.subject);
-        console.log("From:", message.from);
-        console.log("Content:", message.body);
+        console.log("Content:", message);
 })();
 ```
 
