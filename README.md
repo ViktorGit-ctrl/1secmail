@@ -37,15 +37,7 @@ const TempMail = require('./TempMail');
 })();
 ```
 
-## Class Documentation
-
-#### Static Methods
-
-- **`createMailbox()`**
-  - Description: Creates a random temporary email mailbox.
----
-
-### Class `MailBox`
+## Documentation
 
 #### Methods
 
